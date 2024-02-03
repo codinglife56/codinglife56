@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codinglife56
 - 👀 I’m interested in App Developmeent
 - 🌱 I’m currently learning Flutter
--Aldready Learned Web Dev and React js
+
 - - 📫 How to reach me:seriousprogrammer456@gmail.com
 <!---
 codinglife56/codinglife56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
